@@ -1,2 +1,6 @@
-body {
+h1 {
+    background-color: purple;
+    font-family: serif;
+    text-align: center;
+    color: grey;
 }
